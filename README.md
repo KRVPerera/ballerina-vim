@@ -10,7 +10,7 @@ Vim syntax plugin for ballerina
 
 1) Add below line to the plugin config
 
-Plug 'lankavitharana/ballerina-vim'
+Plug 'KRVPerera/ballerina-vim' , { 'branch': 'stable' }
 
 2) run :PlugInstall
 
